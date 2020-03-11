@@ -1,4 +1,4 @@
-package com.automation.utilities;
+package com.cbt.utilities;
 
 public class BrowserUtils {
     public static void wait(int seconds) {
